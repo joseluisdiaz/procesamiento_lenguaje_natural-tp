@@ -76,10 +76,9 @@ El proyecto incluye tres checkpoints correspondientes a las mejores épocas de e
 * `gru_best_model.keras`: Modelo intermedio con celdas GRU.
 * `lstm_best_model.keras`: Modelo con mejor rendimiento (LSTM).
 
+##  Exploración Interactiva
 
-## 📓 Exploración Interactiva
-
-Para facilitar la experimentación y comparación visual entre modelos, se incluye el notebook **`index.ipynb`** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joseluisdiaz/procesamiento_lenguaje_natural-tp/blob/main/index.ipynb).
+Para facilitar la experimentación y comparación visual entre modelos, se incluye el notebook **`index.ipynb`** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joseluisdiaz/procesamiento_lenguaje_natural-tp/blob/main/Desafio_3/index.ipynb).
 
 Este notebook ya contiene las celdas necesarias para:
 
